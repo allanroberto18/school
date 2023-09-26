@@ -4,6 +4,8 @@
 1. Docker
 2. Docker Compose
 3. MySQL
+4. Java 17 (17.0.2-open -> sdkman)
+5. React (latest)
 
 ### Start Backend Application
 
@@ -19,5 +21,13 @@ docker-compose up
 
 ### API Documentation
 - [Swagger](http://127.0.0.1:8080/api/swagger-ui/index.html#/)
+
+### Run react project 
+
+```bash
+cd school-app && npm start
+```
+
+- <b>FrontEnd: </b> [http://127.0.0.1:3000](http://127.0.0.1:3000/)
 
 
